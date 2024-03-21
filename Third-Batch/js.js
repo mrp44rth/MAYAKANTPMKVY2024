@@ -4,7 +4,7 @@ const data = [
  // add data here
 [i++,"AbhyudayUpadhyay","28257989","./Third Batch/AbhyudayUpadhyay_28257989/1.bmp","./Third Batch/AbhyudayUpadhyay_28257989/2.bmp","./Third Batch/AbhyudayUpadhyay_28257989/3.bmp","./Third Batch/AbhyudayUpadhyay_28257989/4.bmp","./Third Batch/AbhyudayUpadhyay_28257989/5.bmp"],
 [i++,"VijayYadav","16996077","./Third Batch/VijayYadav_16996077/1.bmp","./Third Batch/VijayYadav_16996077/2.bmp","./Third Batch/VijayYadav_16996077/3.bmp","./Third Batch/VijayYadav_16996077/4.bmp","./Third Batch/VijayYadav_16996077/5.bmp"],
-[i++,"Anchal_adhar","****","./Third Batch/Anchal_adhar/1.bmp","./Third Batch/Anchal_adhar/2.bmp","./Third Batch/Anchal_adhar/3.bmp","./Third Batch/Anchal_adhar/4.bmp","./Third Batch/Anchal_adhar/5.bmp"],
+[i++,"Anchal_adhar","16470649","./Third Batch/Anchal_adhar/1.bmp","./Third Batch/Anchal_adhar/2.bmp","./Third Batch/Anchal_adhar/3.bmp","./Third Batch/Anchal_adhar/4.bmp","./Third Batch/Anchal_adhar/5.bmp"],
 [i++,"VikashYadav","70351896","./Third Batch/VikashYadav_70351896/1.bmp","./Third Batch/VikashYadav_70351896/2.bmp","./Third Batch/VikashYadav_70351896/3.bmp","./Third Batch/VikashYadav_70351896/4.bmp","./Third Batch/VikashYadav_70351896/5.bmp"],
 [i++,"AnchalPrajapati","04819754","./Third Batch/AnchalPrajapati_04819754/1.bmp","./Third Batch/AnchalPrajapati_04819754/2.bmp","./Third Batch/AnchalPrajapati_04819754/3.bmp","./Third Batch/AnchalPrajapati_04819754/4.bmp","./Third Batch/AnchalPrajapati_04819754/5.bmp"],
 [i++,"VikashYadav","88369470","./Third Batch/VikashYadav_88369470/1.bmp","./Third Batch/VikashYadav_88369470/2.bmp","./Third Batch/VikashYadav_88369470/3.bmp","./Third Batch/VikashYadav_88369470/4.bmp","./Third Batch/VikashYadav_88369470/5.bmp"],
