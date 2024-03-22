@@ -6,8 +6,6 @@ const data = [
 [i++, "Rahul Kumar Yadav", "15326358", "./trainer/RahulKumarYadav_15326358/1.bmp", "./trainer/RahulKumarYadav_15326358/2.bmp", "./trainer/RahulKumarYadav_15326358/3.bmp", "./trainer/RahulKumarYadav_15326358/4.bmp", "./trainer/RahulKumarYadav_15326358/5.bmp"],
 [i++, "Rohit Yadav", "63339443", "./trainer/RohitYadav_63339443/1.bmp", "./trainer/RohitYadav_63339443/2.bmp", "./trainer/RohitYadav_63339443/3.bmp", "./trainer/RohitYadav_63339443/4.bmp", "./trainer/RohitYadav_63339443/5.bmp"],
 [i++, "Anand Yadav", "80664609", "./trainer/AnandYadav_80664609/1.bmp", "./trainer/AnandYadav_80664609/2.bmp", "./trainer/AnandYadav_80664609/3.bmp", "./trainer/AnandYadav_80664609/4.bmp", "./trainer/AnandYadav_80664609/5.bmp"],
-[i++, "Arun Yadav", "59276405", "./trainer/ArunYadav_59276405/1.bmp", "./trainer/ArunYadav_59276405/2.bmp", "./trainer/ArunYadav_59276405/3.bmp", "./trainer/ArunYadav_59276405/4.bmp", "./trainer/ArunYadav_59276405/5.bmp"],
-
 
          // 1-30 are done....
 // adding more rows..
