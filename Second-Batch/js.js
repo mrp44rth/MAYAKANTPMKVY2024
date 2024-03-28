@@ -30,6 +30,8 @@ const data = [
 [i++,"SachinYadav","22321330","./Second Batch/SachinYadav_22321330/1.bmp","./Second Batch/SachinYadav_22321330/2.bmp","./Second Batch/SachinYadav_22321330/3.bmp","./Second Batch/SachinYadav_22321330/4.bmp","./Second Batch/SachinYadav_22321330/5.bmp"],
 [i++,"SaniyaBano","65359081","./Second Batch/SaniyaBano_65359081/1.bmp","./Second Batch/SaniyaBano_65359081/2.bmp","./Second Batch/SaniyaBano_65359081/3.bmp","./Second Batch/SaniyaBano_65359081/4.bmp","./Second Batch/SaniyaBano_65359081/5.bmp"],
 [i++,"VishalGautam","23236742","./Second Batch/VishalGautam_23236742/1.bmp","./Second Batch/VishalGautam_23236742/2.bmp","./Second Batch/VishalGautam_23236742/3.bmp","./Second Batch/VishalGautam_23236742/4.bmp","./Second Batch/VishalGautam_23236742/5.bmp"],
+[i++,"AJAY YADAV","24938992","./Second Batch/AJAY YADAV_24938992/1.bmp","./Second Batch/AJAY YADAV_24938992/2.bmp","./Second Batch/AJAY YADAV_24938992/3.bmp","./Second Batch/AJAY YADAV_24938992/4.bmp","./Second Batch/AJAY YADAV_24938992/5.bmp"],
+[i++,"POOJA","31875256","./Second Batch/POOJA_31875256/1.bmp","./Second Batch/POOJA_31875256/2.bmp","./Second Batch/POOJA_31875256/3.bmp","./Second Batch/POOJA_31875256/4.bmp","./Second Batch/POOJA_31875256/5.bmp"],
 
 
          // 1-30 are done....
