@@ -3,7 +3,7 @@ let i = 1;
 const data = [
  // add data here
 [i++, "Abhay Raj Gautam", "82277432", "./First Batch/AbhayRajGautam 82277432/1.bmp", "./First Batch/AbhayRajGautam 82277432/2.bmp", "./First Batch/AbhayRajGautam 82277432/3.bmp", "./First Batch/AbhayRajGautam 82277432/4.bmp", "./First Batch/AbhayRajGautam 82277432/5.bmp"],
-[i++, "Ajad Gautam", "69392870", "./First Batch/AjadGautam 69392870/1.bmp", "./First Batch/AjadGautam 69392870/2.bmp", "./First Batch/AjadGautam 69392870/3.bmp", "./First Batch/AjadGautam 69392870/4.bmp", "./First Batch/AjadGautam 69392870/5.bmp"],
+[i++, "Ajad Gautam", "69392870", "./First Batch/AjadGautam 69392870/1.bmp", "./First Batch/AjadGautam 69392870/ajad gautam s_o premchand (5).bmp", "./First Batch/AjadGautam 69392870/ajad gautam s_o premchand (4).bmp", "./First Batch/AjadGautam 69392870/ajad gautam s_o premchand (2).bmp", "./First Batch/AjadGautam 69392870/ajad gautam s_o premchand (10).bmp"],
 [i++, "Akanksha Gupta", "48004332", "./First Batch/AkankshaGupta 48004332/1.bmp", "./First Batch/AkankshaGupta 48004332/2.bmp", "./First Batch/AkankshaGupta 48004332/3.bmp", "./First Batch/AkankshaGupta 48004332/4.bmp", "./First Batch/AkankshaGupta 48004332/5.bmp"],
 [i++, "Akash Yadav", "59566878", "./First Batch/AkashYadav 59566878/1.bmp", "./First Batch/AkashYadav 59566878/2.bmp", "./First Batch/AkashYadav 59566878/3.bmp", "./First Batch/AkashYadav 59566878/4.bmp", "./First Batch/AkashYadav 59566878/5.bmp"],
 [i++, "Alka Rai", "79047287", "./First Batch/AlkaRai 79047287/1.bmp", "./First Batch/AlkaRai 79047287/2.bmp", "./First Batch/AlkaRai 79047287/3.bmp", "./First Batch/AlkaRai 79047287/4.bmp", "./First Batch/AlkaRai 79047287/5.bmp"],
