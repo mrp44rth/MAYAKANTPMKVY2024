@@ -24,6 +24,12 @@ const data = [
 [i++,"ujjalahupta","86043235","./fifth batch/ujjalahupta_86043235/1.bmp","./fifth batch/ujjalahupta_86043235/2.bmp","./fifth batch/ujjalahupta_86043235/3.bmp","./fifth batch/ujjalahupta_86043235/4.bmp","./fifth batch/ujjalahupta_86043235/5.bmp"],
 [i++,"VANDANA","93131798","./fifth batch/VANDANA_93131798/1.bmp","./fifth batch/VANDANA_93131798/2.bmp","./fifth batch/VANDANA_93131798/3.bmp","./fifth batch/VANDANA_93131798/4.bmp","./fifth batch/VANDANA_93131798/5.bmp"],
 [i++,"VISHALRAJBHAR","6801213","./fifth batch/VISHALRAJBHAR_6801213/1.bmp","./fifth batch/VISHALRAJBHAR_6801213/2.bmp","./fifth batch/VISHALRAJBHAR_6801213/3.bmp","./fifth batch/VISHALRAJBHAR_6801213/4.bmp","./fifth batch/VISHALRAJBHAR_6801213/5.bmp"],
+[i++, "Ashvanee Kumar Yadav", "88868591", "./folder/Ashvanee Kumar Yadav_88868591/1.bmp", "./folder/Ashvanee Kumar Yadav_88868591/2.bmp", "./folder/Ashvanee Kumar Yadav_88868591/3.bmp", "./folder/Ashvanee Kumar Yadav_88868591/4.bmp", "./folder/Ashvanee Kumar Yadav_88868591/5.bmp"],
+  [i++, "Devanand", "59773938", "./folder/Devanand_59773938/1.bmp", "./folder/Devanand_59773938/2.bmp", "./folder/Devanand_59773938/3.bmp", "./folder/Devanand_59773938/4.bmp", "./folder/Devanand_59773938/5.bmp"],
+  [i++, "Priyanshi", "23568957", "./folder/Priyanshi_23568957/1.bmp", "./folder/Priyanshi_23568957/2.bmp", "./folder/Priyanshi_23568957/3.bmp", "./folder/Priyanshi_23568957/4.bmp", "./folder/Priyanshi_23568957/5.bmp"],
+  [i++, "Rahul Yadav", "33502009", "./folder/Rahul Yadav_33502009/1.bmp", "./folder/Rahul Yadav_33502009/2.bmp", "./folder/Rahul Yadav_33502009/3.bmp", "./folder/Rahul Yadav_33502009/4.bmp", "./folder/Rahul Yadav_33502009/5.bmp"],
+  [i++, "Raj Kumar Yadav", "39534580", "./folder/Raj Kumar Yadav_39534580/1.bmp", "./folder/Raj Kumar Yadav_39534580/2.bmp", "./folder/Raj Kumar Yadav_39534580/3.bmp", "./folder/Raj Kumar Yadav_39534580/4.bmp", "./folder/Raj Kumar Yadav_39534580/5.bmp"],
+  [i++, "Vishal Yadav", "08460142", "./folder/Vishal Yadav_08460142/1.bmp", "./folder/Vishal Yadav_08460142/2.bmp", "./folder/Vishal Yadav_08460142/3.bmp", "./folder/Vishal Yadav_08460142/4.bmp", "./folder/Vishal Yadav_08460142/5.bmp"]
 
          // 1-30 are done....
 // adding more rows..
