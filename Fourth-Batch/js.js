@@ -29,9 +29,9 @@ const data = [
 [i++, "Anuradha Rai", "93538250", "./Fourth Batch/AnuradhaRai_93538250/1.bmp", "./Fourth Batch/AnuradhaRai_93538250/2.bmp", "./Fourth Batch/AnuradhaRai_93538250/3.bmp", "./Fourth Batch/AnuradhaRai_93538250/4.bmp", "./Fourth Batch/AnuradhaRai_93538250/5.bmp"],
 [i++, "Shubham Kumar", "13760930", "./Fourth Batch/ShubhamKumar_13760930/1.bmp", "./Fourth Batch/ShubhamKumar_13760930/2.bmp", "./Fourth Batch/ShubhamKumar_13760930/3.bmp", "./Fourth Batch/ShubhamKumar_13760930/4.bmp", "./Fourth Batch/ShubhamKumar_13760930/5.bmp"],
 [i++, "Atul Yadav", "67593393", "./Fourth Batch/AtulYadav_67593393/1.bmp", "./Fourth Batch/AtulYadav_67593393/2.bmp", "./Fourth Batch/AtulYadav_67593393/3.bmp", "./Fourth Batch/AtulYadav_67593393/4.bmp", "./Fourth Batch/AtulYadav_67593393/5.bmp"],
-[i++, "Pankaj Yadav", "54548283", "./folder/Pankaj Yadav_54548283/1.bmp", "./folder/Pankaj Yadav_54548283/2.bmp", "./folder/Pankaj Yadav_54548283/3.bmp", "./folder/Pankaj Yadav_54548283/4.bmp", "./folder/Pankaj Yadav_54548283/5.bmp"],
-  [i++, "Raj Chauhan", "58786227", "./folder/Raj Chauhan_58786227/1.bmp", "./folder/Raj Chauhan_58786227/2.bmp", "./folder/Raj Chauhan_58786227/3.bmp", "./folder/Raj Chauhan_58786227/4.bmp", "./folder/Raj Chauhan_58786227/5.bmp"],
-  [i++, "Saurabh Prajapati", "32342839", "./folder/Saurabh Prajapati_32342839/1.bmp", "./folder/Saurabh Prajapati_32342839/2.bmp", "./folder/Saurabh Prajapati_32342839/3.bmp", "./folder/Saurabh Prajapati_32342839/4.bmp", "./folder/Saurabh Prajapati_32342839/5.bmp"]
+[i++, "Pankaj Yadav", "54548283", "./Fourth Batch/Pankaj Yadav_54548283/1.bmp", "./Fourth Batch/Pankaj Yadav_54548283/2.bmp", "./Fourth Batch/Pankaj Yadav_54548283/3.bmp", "./Fourth Batch/Pankaj Yadav_54548283/4.bmp", "./Fourth Batch/Pankaj Yadav_54548283/5.bmp"],
+  [i++, "Raj Chauhan", "58786227", "./Fourth Batch/Raj Chauhan_58786227/1.bmp", "./Fourth Batch/Raj Chauhan_58786227/2.bmp", "./Fourth Batch/Raj Chauhan_58786227/3.bmp", "./Fourth Batch/Raj Chauhan_58786227/4.bmp", "./Fourth Batch/Raj Chauhan_58786227/5.bmp"],
+  [i++, "Saurabh Prajapati", "32342839", "./Fourth Batch/Saurabh Prajapati_32342839/1.bmp", "./Fourth Batch/Saurabh Prajapati_32342839/2.bmp", "./Fourth Batch/Saurabh Prajapati_32342839/3.bmp", "./Fourth Batch/Saurabh Prajapati_32342839/4.bmp", "./Fourth Batch/Saurabh Prajapati_32342839/5.bmp"]
 
          // 1-30 are done....
 // adding more rows..
