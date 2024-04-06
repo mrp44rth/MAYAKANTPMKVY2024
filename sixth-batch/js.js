@@ -22,6 +22,11 @@ const data = [
   [i++, "Saniya Bano", "69282547", "./sixth batch/Saniya Bano_69282547/1.bmp", "./sixth batch/Saniya Bano_69282547/2.bmp", "./sixth batch/Saniya Bano_69282547/3.bmp", "./sixth batch/Saniya Bano_69282547/4.bmp", "./sixth batch/Saniya Bano_69282547/5.bmp"],
   [i++, "Satyendra Yadav", "8275771", "./sixth batch/Satyendra Yadav_8275771/1.bmp", "./sixth batch/Satyendra Yadav_8275771/2.bmp", "./sixth batch/Satyendra Yadav_8275771/3.bmp", "./sixth batch/Satyendra Yadav_8275771/4.bmp", "./sixth batch/Satyendra Yadav_8275771/5.bmp"],
   [i++, "Vipin Yadav", "46216680", "./sixth batch/Vipin Yadav_46216680/1.bmp", "./sixth batch/Vipin Yadav_46216680/2.bmp", "./sixth batch/Vipin Yadav_46216680/3.bmp", "./sixth batch/Vipin Yadav_46216680/4.bmp", "./sixth batch/Vipin Yadav_46216680/5.bmp"],
+[i++, "ananya yadav", "05062173", "./sixth batch/ananya yadav_05062173/1.bmp", "./sixth batch/ananya yadav_05062173/2.bmp", "./sixth batch/ananya yadav_05062173/3.bmp", "./sixth batch/ananya yadav_05062173/4.bmp", "./sixth batch/ananya yadav_05062173/5.bmp"],
+  [i++, "MANOJ YADAV", "56353701", "./sixth batch/MANOJ YADAV_56353701/1.bmp", "./sixth batch/MANOJ YADAV_56353701/2.bmp", "./sixth batch/MANOJ YADAV_56353701/3.bmp", "./sixth batch/MANOJ YADAV_56353701/4.bmp", "./sixth batch/MANOJ YADAV_56353701/5.bmp"],
+  [i++, "MUKESH", "47421765", "./sixth batch/MUKESH_47421765/1.bmp", "./sixth batch/MUKESH_47421765/2.bmp", "./sixth batch/MUKESH_47421765/3.bmp", "./sixth batch/MUKESH_47421765/4.bmp", "./sixth batch/MUKESH_47421765/5.bmp"],
+  [i++, "RISHI YADAV", "06323776", "./sixth batch/RISHI YADAV_06323776/1.bmp", "./sixth batch/RISHI YADAV_06323776/2.bmp", "./sixth batch/RISHI YADAV_06323776/3.bmp", "./sixth batch/RISHI YADAV_06323776/4.bmp", "./sixth batch/RISHI YADAV_06323776/5.bmp"],
+  [i++, "vivekyadav", "50387604", "./sixth batch/vivekyadav_50387604/1.bmp", "./sixth batch/vivekyadav_50387604/2.bmp", "./sixth batch/vivekyadav_50387604/3.bmp", "./sixth batch/vivekyadav_50387604/4.bmp", "./sixth batch/vivekyadav_50387604/5.bmp"]
 
          // 1-30 are done....
 // adding more rows..
