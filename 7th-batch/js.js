@@ -7,7 +7,9 @@ const data = [
   [i++, "Anish", "25882965", "./7th batch/Anish_25882965/1.bmp", "./7th batch/Anish_25882965/2.bmp", "./7th batch/Anish_25882965/3.bmp", "./7th batch/Anish_25882965/4.bmp", "./7th batch/Anish_25882965/5.bmp"],
   [i++, "Ankit", "46164058", "./7th batch/Ankit_46164058/1.bmp", "./7th batch/Ankit_46164058/2.bmp", "./7th batch/Ankit_46164058/3.bmp", "./7th batch/Ankit_46164058/4.bmp", "./7th batch/Ankit_46164058/5.bmp"],
   [i++, "Ankita", "92725739", "./7th batch/Ankita_92725739/1.bmp", "./7th batch/Ankita_92725739/2.bmp", "./7th batch/Ankita_92725739/3.bmp", "./7th batch/Ankita_92725739/4.bmp", "./7th batch/Ankita_92725739/5.bmp"],
-  [i++, "Isma Bano", "28642080", "./7th batch/Isma Bano_28642080/1.bmp", "./7th batch/Isma Bano_28642080/2.bmp", "./7th batch/Isma Bano_28642080/3.bmp", "./7th batch/Isma Bano_28642080/4.bmp", "./7th batch/Isma Bano_28642080/5.bmp"],
+   [i++, "Harsh", "11772405", "./7th batch/HARSH YADAV_11772405/1.bmp", "./7th batch/HARSH YADAV_11772405/2.bmp", "./7th batch/HARSH YADAV_11772405/3.bmp", "./7th batch/HARSH YADAV_11772405/4.bmp", "./7th batch/HARSH YADAV_11772405/5.bmp"],
+
+ [i++, "Isma Bano", "28642080", "./7th batch/Isma Bano_28642080/1.bmp", "./7th batch/Isma Bano_28642080/2.bmp", "./7th batch/Isma Bano_28642080/3.bmp", "./7th batch/Isma Bano_28642080/4.bmp", "./7th batch/Isma Bano_28642080/5.bmp"],
   [i++, "KIRAN D_O AMLA PRASAD", "", "./7th batch/KIRAN D_O AMLA PRASAD/1.bmp", "./7th batch/KIRAN D_O AMLA PRASAD/2.bmp", "./7th batch/KIRAN D_O AMLA PRASAD/3.bmp", "./7th batch/KIRAN D_O AMLA PRASAD/4.bmp", "./7th batch/KIRAN D_O AMLA PRASAD/5.bmp"],
   [i++, "Pooja Gautam", "48342991", "./7th batch/Pooja Gautam_48342991/1.bmp", "./7th batch/Pooja Gautam_48342991/2.bmp", "./7th batch/Pooja Gautam_48342991/3.bmp", "./7th batch/Pooja Gautam_48342991/4.bmp", "./7th batch/Pooja Gautam_48342991/5.bmp"],
   [i++, "Praveen Kumar", "27400151", "./7th batch/Praveen Kumar_27400151/1.bmp", "./7th batch/Praveen Kumar_27400151/2.bmp", "./7th batch/Praveen Kumar_27400151/3.bmp", "./7th batch/Praveen Kumar_27400151/4.bmp", "./7th batch/Praveen Kumar_27400151/5.bmp"],
