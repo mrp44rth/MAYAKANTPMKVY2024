@@ -5,7 +5,9 @@ const data = [
 
   [i++, "Aditya Maurya", "2235824", "./7th batch/Aditya Maurya_2235824/1.bmp", "./7th batch/Aditya Maurya_2235824/2.bmp", "./7th batch/Aditya Maurya_2235824/3.bmp", "./7th batch/Aditya Maurya_2235824/4.bmp", "./7th batch/Aditya Maurya_2235824/5.bmp"],
   [i++, "Anish", "25882965", "./7th batch/Anish_25882965/1.bmp", "./7th batch/Anish_25882965/2.bmp", "./7th batch/Anish_25882965/3.bmp", "./7th batch/Anish_25882965/4.bmp", "./7th batch/Anish_25882965/5.bmp"],
-  [i++, "Ankit", "46164058", "./7th batch/Ankit_46164058/1.bmp", "./7th batch/Ankit_46164058/2.bmp", "./7th batch/Ankit_46164058/3.bmp", "./7th batch/Ankit_46164058/4.bmp", "./7th batch/Ankit_46164058/5.bmp"],
+    [i++, "Anil", "71912415", "./7th batch/Anil_71912415/1.bmp", "./7th batch/Anil_71912415/2.bmp", "./7th batch/Anil_71912415/3.bmp", "./7th batch/Anil_71912415/4.bmp", "./7th batch/Anil_71912415/5.bmp"],
+
+ [i++, "Ankit", "46164058", "./7th batch/Ankit_46164058/1.bmp", "./7th batch/Ankit_46164058/2.bmp", "./7th batch/Ankit_46164058/3.bmp", "./7th batch/Ankit_46164058/4.bmp", "./7th batch/Ankit_46164058/5.bmp"],
   [i++, "Ankita", "92725739", "./7th batch/Ankita_92725739/1.bmp", "./7th batch/Ankita_92725739/2.bmp", "./7th batch/Ankita_92725739/3.bmp", "./7th batch/Ankita_92725739/4.bmp", "./7th batch/Ankita_92725739/5.bmp"],
    [i++, "Harsh", "11772405", "./7th batch/HARSH YADAV_11772405/1.bmp", "./7th batch/HARSH YADAV_11772405/2.bmp", "./7th batch/HARSH YADAV_11772405/3.bmp", "./7th batch/HARSH YADAV_11772405/4.bmp", "./7th batch/HARSH YADAV_11772405/5.bmp"],
 
