@@ -27,7 +27,8 @@ const data = [
 [i++, "AVODHESH", "48527119", "./7th batch/AVODHESH_48527119/1.bmp", "./7th batch/AVODHESH_48527119/2.bmp", "./7th batch/AVODHESH_48527119/3.bmp", "./7th batch/AVODHESH_48527119/4.bmp", "./7th batch/AVODHESH_48527119/5.bmp"],
   [i++, "BASANTI", "97939152", "./7th batch/BASANTI_97939152/1.bmp", "./7th batch/BASANTI_97939152/2.bmp", "./7th batch/BASANTI_97939152/3.bmp", "./7th batch/BASANTI_97939152/4.bmp", "./7th batch/BASANTI_97939152/5.bmp"],
   [i++, "RESHAMAYADAV", "26859745", "./7th batch/RESHAMAYADAV_26859745/1.bmp", "./7th batch/RESHAMAYADAV_26859745/2.bmp", "./7th batch/RESHAMAYADAV_26859745/3.bmp", "./7th batch/RESHAMAYADAV_26859745/4.bmp", "./7th batch/RESHAMAYADAV_26859745/5.bmp"],
-  [i++, "swetayadav", "07042330", "./7th batch/swetayadav_07042330/1.bmp", "./7th batch/swetayadav_07042330/2.bmp", "./7th batch/swetayadav_07042330/3.bmp", "./7th batch/swetayadav_07042330/4.bmp", "./7th batch/swetayadav_07042330/5.bmp"]
+  [i++, "swetayadav", "07042330", "./7th batch/Suman_67739733/1.bmp", "./7th batch/Suman_67739733/2.bmp", "./7th batch/Suman_67739733/3.bmp", "./7th batch/Suman_67739733/4.bmp", "./7th batch/Suman_67739733/5.bmp"]
+  [i++, "Suman", "67739733", "./7th batch/Suman_67739733/1.bmp", "./7th batch/Suman_67739733/2.bmp", "./7th batch/Suman_67739733/3.bmp", "./7th batch/Suman_67739733/4.bmp", "./7th batch/Suman_67739733/5.bmp"]
 
          // 1-30 are done....
 // adding more rows..
