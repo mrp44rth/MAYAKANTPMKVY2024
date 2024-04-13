@@ -29,8 +29,8 @@ const data = [
   [i++, "Priyanshi", "23568957", "./fifth batch/Priyanshi_23568957/1.bmp", "./fifth batch/Priyanshi_23568957/2.bmp", "./fifth batch/Priyanshi_23568957/3.bmp", "./fifth batch/Priyanshi_23568957/4.bmp", "./fifth batch/Priyanshi_23568957/5.bmp"],
   [i++, "Rahul Yadav", "33502009", "./fifth batch/Rahul Yadav_33502009/1.bmp", "./fifth batch/Rahul Yadav_33502009/2.bmp", "./fifth batch/Rahul Yadav_33502009/3.bmp", "./fifth batch/Rahul Yadav_33502009/4.bmp", "./fifth batch/Rahul Yadav_33502009/5.bmp"],
   [i++, "Raj Kumar Yadav", "39534580", "./fifth batch/Raj Kumar Yadav_39534580/1.bmp", "./fifth batch/Raj Kumar Yadav_39534580/2.bmp", "./fifth batch/Raj Kumar Yadav_39534580/3.bmp", "./fifth batch/Raj Kumar Yadav_39534580/4.bmp", "./fifth batch/Raj Kumar Yadav_39534580/5.bmp"],
-  [i++, "Vishal Yadav", "08460142", "./fifth batch/Vishal Yadav_08460142/1.bmp", "./fifth batch/Vishal Yadav_08460142/2.bmp", "./fifth batch/Vishal Yadav_08460142/3.bmp", "./fifth batch/Vishal Yadav_08460142/4.bmp", "./fifth batch/Vishal Yadav_08460142/5.bmp"]
-  [i++, "ARUN KUMAR", "59276405", "./fifth batch/ARUN KUMAR_59276405/1.bmp", "./fifth batch/ARUN KUMAR_59276405/2.bmp", "./fifth batch/ARUN KUMAR_59276405/3.bmp", "./fifth batch/ARUN KUMAR_59276405/4.bmp", "./fifth batch/ARUN KUMAR_59276405/5.bmp"]
+  [i++, "Vishal Yadav", "08460142", "./fifth batch/Vishal Yadav_08460142/1.bmp", "./fifth batch/Vishal Yadav_08460142/2.bmp", "./fifth batch/Vishal Yadav_08460142/3.bmp", "./fifth batch/Vishal Yadav_08460142/4.bmp", "./fifth batch/Vishal Yadav_08460142/5.bmp"],
+  [i++, "ARUN KUMAR", "59276405", "./fifth batch/ARUN KUMAR_59276405/1.bmp", "./fifth batch/ARUN KUMAR_59276405/2.bmp", "./fifth batch/ARUN KUMAR_59276405/3.bmp", "./fifth batch/ARUN KUMAR_59276405/4.bmp", "./fifth batch/ARUN KUMAR_59276405/5.bmp"],
   [i++, "Shibu", "38942150", "./fifth batch/Shibu_38942150/1.bmp", "./fifth batch/Shibu_38942150/2.bmp", "./fifth batch/Shibu_38942150/3.bmp", "./fifth batch/Shibu_38942150/4.bmp", "./fifth batch/Shibu_38942150/5.bmp"],
 
          // 1-30 are done....
