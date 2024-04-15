@@ -6,12 +6,10 @@ const data = [
   [i++, "Aditya Maurya", "2235824", "./7th batch/Aditya Maurya_2235824/1.bmp", "./7th batch/Aditya Maurya_2235824/2.bmp", "./7th batch/Aditya Maurya_2235824/3.bmp", "./7th batch/Aditya Maurya_2235824/4.bmp", "./7th batch/Aditya Maurya_2235824/5.bmp"],
   [i++, "Anish", "25882965", "./7th batch/Anish_25882965/1.bmp", "./7th batch/Anish_25882965/2.bmp", "./7th batch/Anish_25882965/3.bmp", "./7th batch/Anish_25882965/4.bmp", "./7th batch/Anish_25882965/5.bmp"],
     [i++, "Anil", "71912415", "./7th batch/Anil_71912415/1.bmp", "./7th batch/Anil_71912415/2.bmp", "./7th batch/Anil_71912415/3.bmp", "./7th batch/Anil_71912415/4.bmp", "./7th batch/Anil_71912415/5.bmp"],
-
  [i++, "Ankit", "46164058", "./7th batch/Ankit_46164058/1.bmp", "./7th batch/Ankit_46164058/2.bmp", "./7th batch/Ankit_46164058/3.bmp", "./7th batch/Ankit_46164058/4.bmp", "./7th batch/Ankit_46164058/5.bmp"],
   [i++, "Ankita", "92725739", "./7th batch/Ankita_92725739/1.bmp", "./7th batch/Ankita_92725739/2.bmp", "./7th batch/Ankita_92725739/3.bmp", "./7th batch/Ankita_92725739/4.bmp", "./7th batch/Ankita_92725739/5.bmp"],
    [i++, "Harsh", "11772405", "./7th batch/HARSH YADAV_11772405/1.bmp", "./7th batch/HARSH YADAV_11772405/2.bmp", "./7th batch/HARSH YADAV_11772405/3.bmp", "./7th batch/HARSH YADAV_11772405/4.bmp", "./7th batch/HARSH YADAV_11772405/5.bmp"],
-
- [i++, "Isma Bano", "28642080", "./7th batch/Isma Bano_28642080/1.bmp", "./7th batch/Isma Bano_28642080/2.bmp", "./7th batch/Isma Bano_28642080/3.bmp", "./7th batch/Isma Bano_28642080/4.bmp", "./7th batch/Isma Bano_28642080/5.bmp"],
+[i++, "Isma Bano", "28642080", "./7th batch/Isma Bano_28642080/1.bmp", "./7th batch/Isma Bano_28642080/2.bmp", "./7th batch/Isma Bano_28642080/3.bmp", "./7th batch/Isma Bano_28642080/4.bmp", "./7th batch/Isma Bano_28642080/5.bmp"],
   [i++, "KIRAN D_O AMLA PRASAD", "", "./7th batch/KIRAN D_O AMLA PRASAD/1.bmp", "./7th batch/KIRAN D_O AMLA PRASAD/2.bmp", "./7th batch/KIRAN D_O AMLA PRASAD/3.bmp", "./7th batch/KIRAN D_O AMLA PRASAD/4.bmp", "./7th batch/KIRAN D_O AMLA PRASAD/5.bmp"],
   [i++, "Pooja Gautam", "48342991", "./7th batch/Pooja Gautam_48342991/1.bmp", "./7th batch/Pooja Gautam_48342991/2.bmp", "./7th batch/Pooja Gautam_48342991/3.bmp", "./7th batch/Pooja Gautam_48342991/4.bmp", "./7th batch/Pooja Gautam_48342991/5.bmp"],
   [i++, "Praveen Kumar", "27400151", "./7th batch/Praveen Kumar_27400151/1.bmp", "./7th batch/Praveen Kumar_27400151/2.bmp", "./7th batch/Praveen Kumar_27400151/3.bmp", "./7th batch/Praveen Kumar_27400151/4.bmp", "./7th batch/Praveen Kumar_27400151/5.bmp"],
@@ -27,8 +25,8 @@ const data = [
 [i++, "AVODHESH", "48527119", "./7th batch/AVODHESH_48527119/1.bmp", "./7th batch/AVODHESH_48527119/2.bmp", "./7th batch/AVODHESH_48527119/3.bmp", "./7th batch/AVODHESH_48527119/4.bmp", "./7th batch/AVODHESH_48527119/5.bmp"],
   [i++, "BASANTI", "97939152", "./7th batch/BASANTI_97939152/1.bmp", "./7th batch/BASANTI_97939152/2.bmp", "./7th batch/BASANTI_97939152/3.bmp", "./7th batch/BASANTI_97939152/4.bmp", "./7th batch/BASANTI_97939152/5.bmp"],
   [i++, "RESHAMAYADAV", "26859745", "./7th batch/RESHAMAYADAV_26859745/1.bmp", "./7th batch/RESHAMAYADAV_26859745/2.bmp", "./7th batch/RESHAMAYADAV_26859745/3.bmp", "./7th batch/RESHAMAYADAV_26859745/4.bmp", "./7th batch/RESHAMAYADAV_26859745/5.bmp"],
-  [i++, "swetayadav", "07042330", "./7th batch/Suman_67739733/1.bmp", "./7th batch/Suman_67739733/2.bmp", "./7th batch/Suman_67739733/3.bmp", "./7th batch/Suman_67739733/4.bmp", "./7th batch/Suman_67739733/5.bmp"]
-  [i++, "Suman", "67739733", "./7th batch/Suman_67739733/1.bmp", "./7th batch/Suman_67739733/2.bmp", "./7th batch/Suman_67739733/3.bmp", "./7th batch/Suman_67739733/4.bmp", "./7th batch/Suman_67739733/5.bmp"]
+  [i++, "swetayadav", "07042330", "./7th batch/swetayadav_07042330/1.bmp", "./7th batch/swetayadav_07042330/2.bmp", "./7th batch/swetayadav_07042330/3.bmp", "./7th batch/swetayadav_07042330/4.bmp", "./7th batch/swetayadav_07042330/5.bmp"],
+  [i++, "Suman", "67739733", "./7th batch/Suman_67739733/1.bmp", "./7th batch/Suman_67739733/2.bmp", "./7th batch/Suman_67739733/3.bmp", "./7th batch/Suman_67739733/4.bmp", "./7th batch/Suman_67739733/5.bmp"],
 
          // 1-30 are done....
 // adding more rows..
