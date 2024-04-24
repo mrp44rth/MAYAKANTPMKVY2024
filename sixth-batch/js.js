@@ -29,7 +29,8 @@ const data = [
   [i++, "MANOJ YADAV", "56353701", "./sixth batch/MANOJ YADAV_56353701/1.bmp", "./sixth batch/MANOJ YADAV_56353701/2.bmp", "./sixth batch/MANOJ YADAV_56353701/3.bmp", "./sixth batch/MANOJ YADAV_56353701/4.bmp", "./sixth batch/MANOJ YADAV_56353701/5.bmp"],
   [i++, "MUKESH", "47421765", "./sixth batch/MUKESH_47421765/1.bmp", "./sixth batch/MUKESH_47421765/2.bmp", "./sixth batch/MUKESH_47421765/3.bmp", "./sixth batch/MUKESH_47421765/4.bmp", "./sixth batch/MUKESH_47421765/5.bmp"],
   [i++, "RISHI YADAV", "06323776", "./sixth batch/RISHI YADAV_06323776/1.bmp", "./sixth batch/RISHI YADAV_06323776/2.bmp", "./sixth batch/RISHI YADAV_06323776/3.bmp", "./sixth batch/RISHI YADAV_06323776/4.bmp", "./sixth batch/RISHI YADAV_06323776/5.bmp"],
-  [i++, "vivekyadav", "50387604", "./sixth batch/vivekyadav_50387604/1.bmp", "./sixth batch/vivekyadav_50387604/2.bmp", "./sixth batch/vivekyadav_50387604/3.bmp", "./sixth batch/vivekyadav_50387604/4.bmp", "./sixth batch/vivekyadav_50387604/5.bmp"]
+  [i++, "vivekyadav", "50387604", "./sixth batch/vivekyadav_50387604/1.bmp", "./sixth batch/vivekyadav_50387604/2.bmp", "./sixth batch/vivekyadav_50387604/3.bmp", "./sixth batch/vivekyadav_50387604/4.bmp", "./sixth batch/vivekyadav_50387604/5.bmp"],
+  [i++, "Shivam Yadav", "46302745", "./sixth batch/ShivamYadav_46302745/1.bmp", "./sixth batch/ShivamYadav_46302745/2.bmp", "./sixth batch/ShivamYadav_46302745/3.bmp", "./sixth batch/ShivamYadav_46302745/4.bmp", "./sixth batch/ShivamYadav_46302745/5.bmp"],
 
          // 1-30 are done....
 // adding more rows..
