@@ -34,6 +34,7 @@ const data = [
 [i++, "Gudiyarai", "32219957", "./Fourth Batch/Gudiyarai_32219957/1.bmp", "./Fourth Batch/Gudiyarai_32219957/2.bmp", "./Fourth Batch/Gudiyarai_32219957/3.bmp", "./Fourth Batch/Gudiyarai_32219957/4.bmp", "./Fourth Batch/Gudiyarai_32219957/5.bmp"],
   [i++, "RAKHIPRAJAPATI", "41921506", "./Fourth Batch/RAKHIPRAJAPATI_41921506/1.bmp", "./Fourth Batch/RAKHIPRAJAPATI_41921506/2.bmp", "./Fourth Batch/RAKHIPRAJAPATI_41921506/3.bmp", "./Fourth Batch/RAKHIPRAJAPATI_41921506/4.bmp", "./Fourth Batch/RAKHIPRAJAPATI_41921506/5.bmp"],
   [i++, "RATNA", "49846167", "./Fourth Batch/RATNA_49846167/1.bmp", "./Fourth Batch/RATNA_49846167/2.bmp", "./Fourth Batch/RATNA_49846167/3.bmp", "./Fourth Batch/RATNA_49846167/4.bmp", "./Fourth Batch/RATNA_49846167/5.bmp"],
+  [i++, "Karina", "24377402", "./Fourth Batch/Karina_24377402/1.bmp", "./Fourth Batch/Karina_24377402/2.bmp", "./Fourth Batch/Karina_24377402/3.bmp", "./Fourth Batch/Karina_24377402/4.bmp", "./Fourth Batch/Karina_24377402/5.bmp"],
 
          // 1-30 are done....
 // adding more rows..
